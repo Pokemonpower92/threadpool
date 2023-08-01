@@ -1,9 +1,5 @@
 .vscode
-./build/*
-!./build/.keep
-
-./test/*
-!./test/test_threadpool.cpp
-
+build/*
+!build/.keep
 
 threadpool.code-workspace
